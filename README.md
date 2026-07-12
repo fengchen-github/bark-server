@@ -65,6 +65,14 @@ task linux_amd64_v3
 
 Just run the server with `-dsn=user:pass@tcp(mysql_host)/bark`, it will use MySQL instead of file database Bbolt
 
+## How to use
+At the bottom of the app, choose Service, then tap the + in the top right, input your server address (Is it http?), and then tap √
+
+You'll see your device ID shortly
+```
+http://192.168.192.168:1765/x2xxxxxxxxxxxxxxxxxfxF/Body Text
+```
+
 ## Others
 
 * [API_V2.md](docs/API_V2.md).
